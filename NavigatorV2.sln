@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigatorV2.Android", "NavigatorV2\NavigatorV2.Android\NavigatorV2.Android.csproj", "{5E0A26B5-D844-4FAD-8233-CEF5076B319B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigatorV2", "NavigatorV2\NavigatorV2\NavigatorV2.csproj", "{187CDF24-1F8A-44D6-BD15-5992DFBD74D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0A26B5-D844-4FAD-8233-CEF5076B319B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{187CDF24-1F8A-44D6-BD15-5992DFBD74D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187CDF24-1F8A-44D6-BD15-5992DFBD74D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187CDF24-1F8A-44D6-BD15-5992DFBD74D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187CDF24-1F8A-44D6-BD15-5992DFBD74D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A01F5D1-9B33-4BF3-A8CA-6B0573DC1A69}
+	EndGlobalSection
+EndGlobal
